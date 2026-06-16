@@ -170,5 +170,4 @@ To get notified about updates, fixes, and new features for this script, we invit
 ### Author & Feedback
 
 Created by **[Ismail Memon](https://t.me/Ismail_memon)**
-
-If this script helps you out, please consider leaving a **Star ⭐** on this GitHub repository! Your support keeps the project active and helps others find it.
+Huge thanks to **Woino Kiz**If this script helps you out, please consider leaving a **Star ⭐** on this GitHub repository! Your support keeps the project active and helps others find it.
